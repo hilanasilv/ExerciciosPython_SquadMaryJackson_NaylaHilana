@@ -2,4 +2,4 @@
 
 numeros = [13, 35, 7]
 numeros.sort()
-print(numeros)
+print(f'Os números em ordem crescente são: {numeros}')
