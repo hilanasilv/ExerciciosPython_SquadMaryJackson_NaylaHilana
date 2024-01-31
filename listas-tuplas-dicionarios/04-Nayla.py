@@ -4,4 +4,4 @@ contatos = {'Aline': '98845-9735', 'Débora': '99976-3422', 'Eliane': '99166-737
 busca_contato = input('Digite o nome do contato que deseja buscar: ')
 telefone = contatos.get(busca_contato, 'Contato não existe')
 
-print(f'{busca_contato} - {telefone}')
+print(f'{busca_contato} \n{telefone}')
