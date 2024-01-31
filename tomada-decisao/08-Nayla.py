@@ -1,4 +1,4 @@
-# Criar um programa em Python que solicite três números ao usuário, utilize estruturas condicionais para determinar o maior entre eles e apresente o resultado.
+# 8. Criar um programa em Python que solicite três números ao usuário, utilize estruturas condicionais para determinar o maior entre eles e apresente o resultado.
 
 numero1 = int(input('Digite o primeiro número: '))
 numero2 = int(input('Digite o segundo número: '))
